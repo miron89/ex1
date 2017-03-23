@@ -12,3 +12,12 @@ This repository includes images and information about rabbits
 * More than half the world's rabbit population resides in North America
 * Rabbits are also native to southwestern Europe, Southeast Asia, Sumatra, some islands of Japan, and in parts of Africa and South America
 
+<img src="/images/Rabbit-1.jpg" width="250" height="250" margin-right="50">
+
+English | Hebrew
+------------ | -------------
+European rabbit | ארנבון מצוי
+Pygmy rabbit | ארנב ננסי
+Cottontail rabbit | ארנבון יער
+Chinchilla | צ'ינצ'ילה
+Angora rabbit | ארנב אנגורה
